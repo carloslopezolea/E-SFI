@@ -47,4 +47,8 @@ In progress.
 
 
 ## References
-López, C. N., Rojas, F., & Massone, L. M. (2022). Membrane fiber element for reinforced concrete walls – the benefits of macro and micro modeling approaches. Engineering Structures, 254, 113819. [link](https://www.sciencedirect.com/science/article/abs/pii/S0141029621018897)<br/>
+- Massone, L. M., López, C. N., & Kolozvari, K. (2021). Formulation of an efficient shear-flexure interaction model for planar reinforced concrete walls. Engineering Structures, 243, 112680. [link](https://www.sciencedirect.com/science/article/abs/pii/S0141029621008300)  
+- López, C. N., Massone, L. M., & Kolozvari, K. (2022). Validation of an efficient shear-flexure interaction model for planar reinforced concrete walls. Engineering Structures, 252, 113590. [link](https://www.sciencedirect.com/science/article/abs/pii/S0141029621016837)
+- López C. N. Efficient shear-flexure interaction model for nonlinear analysis of reinforced concrete structural walls. MS Dissertation. Santiago, Chile: University of
+Chile; 2021. [link](https://repositorio.uchile.cl/handle/2250/180296)
+
