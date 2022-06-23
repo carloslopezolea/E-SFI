@@ -43,7 +43,7 @@ The following recorders are available with the E-SFI element.
 | RCPanel $fibTag $Response | returns RC panel (macro-fiber) $Response for a $fibTag-th panel (1 ≤ fibTag ≤ m). For available $Response-s refer to nDMaterial [FSAM](https://opensees.berkeley.edu/wiki/index.php/FSAM_-_2D_RC_Panel_Constitutive_Behavior) |
 
 ## Example
-In progress.
+Input files (.tcl) used to build the wall model and perform displacement-controlled analysis can be found in [RC Wall Example](/examples/Example_1). To run the analysis use the file ``Run_Pushover.tcl``.
 
 
 ## References
