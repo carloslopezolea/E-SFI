@@ -1,4 +1,4 @@
-# E-SFI
+# E-SFI Element
 Two-dimensional, two-node, shear-flexure interaction element.  
 This element shall be used in Domain defined with ``-ndm 2 -ndf 3``
 
